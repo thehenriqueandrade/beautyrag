@@ -1,0 +1,16 @@
+# Ambiente
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Dados gerados
+data/chroma_db/
+data/processed/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
